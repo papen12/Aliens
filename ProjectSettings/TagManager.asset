@@ -7,6 +7,7 @@ TagManager:
   - Alien
   - bullet
   - bala
+  - piso
   layers:
   - Default
   - TransparentFX
